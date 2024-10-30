@@ -1,4 +1,6 @@
 ![wobly](https://github.com/user-attachments/assets/fc9e2d8d-0e55-40a1-bb4b-e5af7d7135f3)
+![MOINYC](https://github.com/user-attachments/assets/e71ad725-e3c8-4348-8ae5-7dfaa800f8b1)
+
 
 - 👋 Bonjour, I’m @marc-alexis-com
 - 👀 I’m interested in emerging technologies, transhumanism, social impact projects, philosophy and ethics of technologies.
