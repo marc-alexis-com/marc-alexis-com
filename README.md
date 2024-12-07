@@ -9,5 +9,3 @@
 - 📫 How to reach me: through my personal site at [marc-alexis.com](https://www.marc-alexis.com).
 - 😄 Pronouns: He/Him/Dieu
 - ⚡ Fun fact: I have an NFC implant in my hand and am working on hosting my website entirely on solar energy!
-
-![MOINYCAPPEAR](https://github.com/user-attachments/assets/a90bd03d-c637-4eb6-a314-f8701b6bec80)
