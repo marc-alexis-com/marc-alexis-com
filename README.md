@@ -1,16 +1,21 @@
-# Marc-Alexis MANSO-PETERS
+<img src="tete.gif" width="240" align="right" alt="My head, in 3D, getting hit by a VLC cone">
 
-EFREI Paris --- M1 Robotics & Embedded Systems.
+# Marc-Alexis Manso-Peters
 
-~Looking for a 6-month internship from September 2026 in Paris.~ Found a 6-month internship in Paris !
+Engineering student at EFREI Paris (M1 Robotics & Embedded Systems),
+currently a robotics intern at Kyber™.
 
-Currently working on:
-- **haptic.skin** — open-source bidirectional haptic wearable.
-- Learning Rust for low-latency systems (UDP, QUIC, real-time control).
-- **[change-in-line.nvim](https://github.com/marc-alexis-com/change-in-line.nvim)** — small Neovim plugin I use daily.
+I'd rather understand a thing than just use it, so I build my own tools:
 
-![3D Gif Maker](https://github.com/user-attachments/assets/de91c594-1c4e-4158-bb95-26fceb1db471)
+- **[kishot](https://github.com/marc-alexis-com/kishot)**: presentation sheets
+  of a KiCad board, from the command line.
+- **[nothing-toolbox](https://github.com/marc-alexis-com/nothing-toolbox)** and
+  **[laifen-toolbox](https://github.com/marc-alexis-com/laifen-toolbox)**:
+  Linux CLIs for my headphones and my toothbrush, over Bluetooth LE.
+- **[change-in-line.nvim](https://github.com/marc-alexis-com/change-in-line.nvim)**:
+  a small Neovim plugin I use daily.
 
-Elsewhere: [marc-alexis.com](https://www.marc-alexis.com).
+My website pretends to be a PlayStation 2: **[marc-alexis.com](https://marc-alexis.com)**.
+The head on the right lives there. Click it.
 
-*Fun stuff: NFC implant in my hand, website hosted on a soon to be solar-powered VPS.*
+*Fun stuff: an NFC implant in my hand, and an autobiography nobody should buy.*
